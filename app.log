@@ -1,0 +1,345 @@
+2019-Mar-21 15:03:11 PM [main] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Exception out to the socket
+2019-Mar-21 15:03:11 PM [main] INFO  edu.upenn.cis.cis455.m1.server.interfaces.HttpRequestHandler - Created the Http Request Object
+2019-Mar-21 15:03:11 PM [main] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2019-Mar-21 15:04:41 PM [main] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Exception out to the socket
+2019-Mar-21 15:04:41 PM [main] INFO  edu.upenn.cis.cis455.m1.server.interfaces.HttpRequestHandler - Created the Http Request Object
+2019-Mar-21 15:04:41 PM [main] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2019-Mar-21 15:05:49 PM [main] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Exception out to the socket
+2019-Mar-21 15:05:49 PM [main] INFO  edu.upenn.cis.cis455.m1.server.interfaces.HttpRequestHandler - Created the Http Request Object
+2019-Mar-21 15:05:49 PM [main] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 14:00:26 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - About to return WebService object
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Initializing server
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Calling Http Server from WebService
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Starting HttpServerThread
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - About to spawn Worker Threads
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding Worker Threads
+2020-May-30 14:00:26 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Run Method of Listener Thread
+2020-May-30 14:00:26 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.HttpServer - Added Worker Thread:0
+2020-May-30 14:00:26 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Listener ---Setting sockets--
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - ****Adding Worker threads***
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Got the Http Task Queue Object Inside HttpWorker classedu.upenn.cis.cis455.m1.server.HttpTaskQueue@4a003cbe
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Initializing Worker Thread
+2020-May-30 14:00:26 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding new Worker Thread:19
+2020-May-30 14:00:26 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the IP addess of Server:127.0.0.1
+2020-May-30 14:00:26 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the port:8080
+2020-May-30 14:00:26 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Finished setting Sockets---
+2020-May-30 14:00:26 PM [Thread-0] DEBUG edu.upenn.cis.cis455.m1.server.ListenerHandler - Server ready to listen on the port:8080
+2020-May-30 14:21:41 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - About to return WebService object
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Initializing server
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Calling Http Server from WebService
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Starting HttpServerThread
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - About to spawn Worker Threads
+2020-May-30 14:22:52 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Run Method of Listener Thread
+2020-May-30 14:22:52 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Listener ---Setting sockets--
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding Worker Threads
+2020-May-30 14:22:52 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.HttpServer - Added Worker Thread:0
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - ****Adding Worker threads***
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Got the Http Task Queue Object Inside HttpWorker classedu.upenn.cis.cis455.m1.server.HttpTaskQueue@4a003cbe
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Initializing Worker Thread
+2020-May-30 14:22:52 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding new Worker Thread:19
+2020-May-30 15:41:52 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the IP addess of Server:127.0.0.1
+2020-May-30 15:41:52 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the port:8080
+2020-May-30 15:41:52 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Finished setting Sockets---
+2020-May-30 15:41:52 PM [Thread-0] DEBUG edu.upenn.cis.cis455.m1.server.ListenerHandler - Server ready to listen on the port:8080
+2020-May-30 15:42:04 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - About to return WebService object
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Initializing server
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Calling Http Server from WebService
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Starting HttpServerThread
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - About to spawn Worker Threads
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding Worker Threads
+2020-May-30 15:42:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Run Method of Listener Thread
+2020-May-30 15:42:04 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.HttpServer - Added Worker Thread:0
+2020-May-30 15:42:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Listener ---Setting sockets--
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - ****Adding Worker threads***
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Got the Http Task Queue Object Inside HttpWorker classedu.upenn.cis.cis455.m1.server.HttpTaskQueue@302c971f
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Initializing Worker Thread
+2020-May-30 15:42:04 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding new Worker Thread:17
+2020-May-30 15:42:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the IP addess of Server:127.0.0.1
+2020-May-30 15:42:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the port:8080
+2020-May-30 15:42:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Finished setting Sockets---
+2020-May-30 15:42:04 PM [Thread-0] DEBUG edu.upenn.cis.cis455.m1.server.ListenerHandler - Server ready to listen on the port:8080
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:42:11 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:42:11 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:42:11 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:42:11 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning HttpRequestHandler Object
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.HttpRequestHandler - Created the Http Request Object
+2020-May-30 15:42:12 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Setting body of Response
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.HttpRequestHandler - Response for valid file requests
+2020-May-30 15:42:12 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:42:12 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:43:01 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:43:01 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:43:01 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:43:01 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:43:23 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:44:06 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:44:06 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:44:06 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:44:06 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:44:19 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:44:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:44:22 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:44:22 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:44:22 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:44:32 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:45:43 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - About to return WebService object
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Initializing server
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Calling Http Server from WebService
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Starting HttpServerThread
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - About to spawn Worker Threads
+2020-May-30 15:45:43 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Run Method of Listener Thread
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding Worker Threads
+2020-May-30 15:45:43 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Listener ---Setting sockets--
+2020-May-30 15:45:43 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.HttpServer - Added Worker Thread:0
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - ****Adding Worker threads***
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Got the Http Task Queue Object Inside HttpWorker classedu.upenn.cis.cis455.m1.server.HttpTaskQueue@4a003cbe
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Initializing Worker Thread
+2020-May-30 15:45:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding new Worker Thread:19
+2020-May-30 15:46:07 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the IP addess of Server:127.0.0.1
+2020-May-30 15:46:07 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the port:8080
+2020-May-30 15:46:07 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Finished setting Sockets---
+2020-May-30 15:46:07 PM [Thread-0] DEBUG edu.upenn.cis.cis455.m1.server.ListenerHandler - Server ready to listen on the port:8080
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:46:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:46:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:46:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:46:30 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:46:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:46:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:46:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:46:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:47:48 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:47:48 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:49:19 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:49:19 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:49:19 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:49:25 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - About to return WebService object
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Initializing server
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Calling Http Server from WebService
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Starting HttpServerThread
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - About to spawn Worker Threads
+2020-May-30 15:49:25 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Run Method of Listener Thread
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding Worker Threads
+2020-May-30 15:49:25 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Listener ---Setting sockets--
+2020-May-30 15:49:25 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.HttpServer - Added Worker Thread:0
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - ****Adding Worker threads***
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Got the Http Task Queue Object Inside HttpWorker classedu.upenn.cis.cis455.m1.server.HttpTaskQueue@302c971f
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Initializing Worker Thread
+2020-May-30 15:49:25 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding new Worker Thread:17
+2020-May-30 15:49:25 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the IP addess of Server:127.0.0.1
+2020-May-30 15:49:25 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the port:8080
+2020-May-30 15:49:25 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Finished setting Sockets---
+2020-May-30 15:49:25 PM [Thread-0] DEBUG edu.upenn.cis.cis455.m1.server.ListenerHandler - Server ready to listen on the port:8080
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:49:30 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:49:30 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Setting body of Response
+2020-May-30 15:49:30 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:49:30 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:49:40 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning HttpRequestHandler Object
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.HttpRequestHandler - Created the Http Request Object
+2020-May-30 15:54:05 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-May-30 15:54:05 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Exception out to the socket
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:54:05 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:54:05 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:54:18 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:54:18 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-May-30 15:54:18 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-May-30 15:54:18 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-May-30 15:54:18 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-May-30 15:54:18 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-May-30 15:54:18 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:54:18 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:54:18 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-May-30 15:54:18 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-May-30 15:54:18 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-May-30 15:54:48 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-Jun-01 20:22:43 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - About to return WebService object
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Initializing server
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.implementations.WebServiceImpl - Calling Http Server from WebService
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Starting HttpServerThread
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - About to spawn Worker Threads
+2020-Jun-01 20:22:43 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Run Method of Listener Thread
+2020-Jun-01 20:22:43 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Inside Listener ---Setting sockets--
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding Worker Threads
+2020-Jun-01 20:22:43 PM [main] DEBUG edu.upenn.cis.cis455.m1.server.HttpServer - Added Worker Thread:0
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - ****Adding Worker threads***
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Got the Http Task Queue Object Inside HttpWorker classedu.upenn.cis.cis455.m1.server.HttpTaskQueue@4a003cbe
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Initializing Worker Thread
+2020-Jun-01 20:22:43 PM [main] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Adding new Worker Thread:19
+2020-Jun-01 20:23:15 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the IP addess of Server:127.0.0.1
+2020-Jun-01 20:23:15 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - This is the port:8080
+2020-Jun-01 20:23:15 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Finished setting Sockets---
+2020-Jun-01 20:23:15 PM [Thread-0] DEBUG edu.upenn.cis.cis455.m1.server.ListenerHandler - Server ready to listen on the port:8080
+2020-Jun-01 20:28:32 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-Jun-01 20:28:32 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-Jun-01 20:28:32 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-Jun-01 20:28:32 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-Jun-01 20:28:32 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-Jun-01 20:28:32 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-Jun-01 20:28:32 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-Jun-01 20:28:32 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-Jun-01 20:32:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-Jun-01 20:32:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-Jun-01 20:32:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-Jun-01 20:32:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-Jun-01 20:32:04 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-Jun-01 20:32:21 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-Jun-01 20:32:21 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-Jun-01 20:32:21 PM [Thread-1] ERROR edu.upenn.cis.cis455.ServiceFactory - null
+2020-Jun-01 20:32:21 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Creating Request
+2020-Jun-01 20:32:21 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Request Object
+2020-Jun-01 20:32:21 PM [Thread-1] INFO  edu.upenn.cis.cis455.ServiceFactory - Returning Response Object
+2020-Jun-01 20:32:21 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Initializing Response object
+2020-Jun-01 20:32:29 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Setting body of Response
+2020-Jun-01 20:32:59 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpIoHandler - Sending Response out to the socket
+2020-Jun-01 20:32:59 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.interfaces.Response - Get Content Type of Response
+2020-Jun-01 20:36:23 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-Jun-01 20:36:23 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-Jun-01 20:36:23 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-Jun-01 20:36:23 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-Jun-01 20:36:23 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-Jun-01 20:36:29 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-Jun-01 20:36:29 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-Jun-01 20:36:29 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-Jun-01 20:37:49 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-Jun-01 20:37:49 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-Jun-01 20:37:49 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-Jun-01 20:37:49 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-Jun-01 20:37:49 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-Jun-01 20:38:00 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-Jun-01 20:38:02 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
+2020-Jun-01 20:38:28 PM [Thread-1] ERROR edu.upenn.cis.cis455.m1.server.HttpWorker - Task execution failed - http request lost..
+2020-Jun-01 20:39:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - got request
+2020-Jun-01 20:39:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.ListenerHandler - Task received on the socket...
+2020-Jun-01 20:39:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Task listening on current socketclass sun.nio.ch.SocketAdaptor
+2020-Jun-01 20:39:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpServer - Sending HttpTask Queue to the Listener for Enqueuing
+2020-Jun-01 20:39:22 PM [Thread-0] INFO  edu.upenn.cis.cis455.m1.server.HttpTask - Added Task to Queue
+2020-Jun-01 20:39:47 PM [Thread-1] INFO  edu.upenn.cis.cis455.m1.server.HttpWorker - Executing Http Task
+2020-Jun-01 20:40:14 PM [Thread-1] INFO  edu.upenn.cis.cis455.util.HttpParsing - Entered Parse Request class
